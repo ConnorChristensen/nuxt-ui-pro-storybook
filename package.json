@@ -12,6 +12,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@nuxt/ui-pro": "^1.2.0",
     "@nuxtjs/storybook": "^8.0.0",
     "nuxt": "^3.11.2",
     "vue": "^3.4.27",
